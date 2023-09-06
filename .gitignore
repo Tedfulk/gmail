@@ -1,0 +1,6 @@
+.env
+credentials.json
+token.json
+__pycache__/
+gmail-pub-sub-keys.json
+README.html
